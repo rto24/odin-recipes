@@ -14,31 +14,7 @@ body {
   border: 2px solid black;
 }
 
-.ingre1 {
-  padding: 5px;
-  margin: 5px;
-  background: rgb(201, 241, 201);
-}
-
-.ingre2 {
-  padding: 5px;
-  margin: 5px;
-  background: rgb(201, 241, 201);
-}
-
-.ingre3 {
-  padding: 5px;
-  margin: 5px;
-  background: rgb(201, 241, 201);
-}
-
-.ingre4 {
-  padding: 5px;
-  margin: 5px;
-  background: rgb(201, 241, 201);
-}
-
-.ingre5 {
+.ingre-ele {
   padding: 5px;
   margin: 5px;
   background: rgb(201, 241, 201);
@@ -57,31 +33,7 @@ body {
   
 }
 
-.step1 {
-  padding: 5px;
-  margin: 5px;
-  background: rgb(201, 241, 201);
-}
-
-.step2 {
-  padding: 5px;
-  margin: 5px;
-  background: rgb(201, 241, 201);
-}
-
-.step3 {
-  padding: 5px;
-  margin: 5px;
-  background: rgb(201, 241, 201);
-}
-
-.step4 {
-  padding: 5px;
-  margin: 5px;
-  background: rgb(201, 241, 201);
-}
-
-.step5 {
+.step-ele {
   padding: 5px;
   margin: 5px;
   background: rgb(201, 241, 201);
